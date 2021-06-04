@@ -1,0 +1,18 @@
+{
+  "pages": [
+    
+    "pages/postlist/postlist",
+  
+    "pages/publish/publish",
+    "pages/postdetail/postdetail"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#00BFFF",
+    "navigationBarTitleText": "论坛",
+    "navigationBarTextStyle": "white"
+  },
+  "cloud": true,
+  "sitemapLocation": "sitemap.json"
+}
